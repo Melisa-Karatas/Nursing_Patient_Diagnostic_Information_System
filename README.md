@@ -10,13 +10,15 @@ As a nursing intern student, every day we have to gather those informations from
 ____
 ## Operations You Can Do In This System
    * You can add, update or remove a patient.
-![ay_hasta_yatis](https://github.com/Melisa-Karatas/Nursing_Patient_Diagnostic_Information/assets/145010761/34b34529-d394-407f-9409-d17d0eb1d702)
-![ay_database](https://github.com/Melisa-Karatas/Nursing_Patient_Diagnostic_Information/assets/145010761/5f2c30bf-5c70-4665-8d8c-ef7abff26907)
+![hasta_yatis](https://github.com/Melisa-Karatas/Nursing_Patient_Diagnostic_Information_System/assets/145010761/9a59fdec-ebfe-4d22-b94f-27fe1eb73a3d)
+![database](https://github.com/Melisa-Karatas/Nursing_Patient_Diagnostic_Information_System/assets/145010761/95bf8755-cb23-4cc8-aa1a-6c859e402261)
+
 
 
    * You can add, update or remove vital signs for the patient.
-![ay_anta](https://github.com/Melisa-Karatas/Nursing_Patient_Diagnostic_Information/assets/145010761/eae4f3fc-ad51-4edc-a5cf-393709785088)
-![anta_database](https://github.com/Melisa-Karatas/Nursing_Patient_Diagnostic_Information/assets/145010761/7a142856-0e00-476d-a7ac-4de170ffc92b)
+
+![anta](https://github.com/Melisa-Karatas/Nursing_Patient_Diagnostic_Information_System/assets/145010761/7afcde14-46ca-4f4e-95a4-e269ca85b38f)
+![anta_database](https://github.com/Melisa-Karatas/Nursing_Patient_Diagnostic_Information_System/assets/145010761/189f9da1-fcad-41ad-8698-d860e9ffbc30)
 
   * You can see the list of the patients, medicines and all the vital sign informations.
   * You can look for a patient, medicines and all the vital sign informations by entering their personal id number.
