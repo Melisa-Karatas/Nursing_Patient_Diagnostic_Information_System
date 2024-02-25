@@ -6,6 +6,7 @@ _____
 As a nursing intern student, every day we have to gather those informations from all the patients we are responsible for. So to make it easier to store the data, in this project I created two classes: one for patients and the other for vital signs.
 * In class 'Hasta' you can save the personal and clinic info you gathered from the patient.
 * In class 'Anta' you can save the vital signs of the patient. Anta is an abbreviation for all the elements you should be checking for vitals in my mother language.
+* In class 'Ilac' you can save the medicine of the patient that is used for the current treatment or used permanently.
 ____
 ## Operations You Can Do In This System
    * You can add, update or remove a patient.
@@ -17,5 +18,5 @@ ____
 ![ay_anta](https://github.com/Melisa-Karatas/Nursing_Patient_Diagnostic_Information/assets/145010761/eae4f3fc-ad51-4edc-a5cf-393709785088)
 ![anta_database](https://github.com/Melisa-Karatas/Nursing_Patient_Diagnostic_Information/assets/145010761/7a142856-0e00-476d-a7ac-4de170ffc92b)
 
-  * You can see the list of the patients and all the vital sign informations.
-  * You can look for a patient by entering their personal id number.
+  * You can see the list of the patients, medicines and all the vital sign informations.
+  * You can look for a patient, medicines and all the vital sign informations by entering their personal id number.
